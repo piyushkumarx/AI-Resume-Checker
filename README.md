@@ -10,26 +10,12 @@ helping recruiters identify the most suitable candidates efficiently.
 
 ---
 
-##  Features :
-
- Upload and analyze **multiple resumes**
- Compare resumes with a **job description**
- **AI-based similarity scoring**
- **Candidate ranking** based on match score
- Suggestions to **improve resume matching**
- **Simple and user-friendly interface**
- Helps recruiters **identify the best candidate faster**
-
----
-
-
-
 ##  Tech Stack
 
- **Frontend:** React JS
- **Backend:** Python / Flask
- **AI / NLP:** Text similarity & skill matching
- **Deployment:** Netlify
+ `React JS`
+ `Python / Flask`
+ `Text similarity & skill matching`
+ `Render`
 
 ---
 
@@ -52,4 +38,4 @@ helping recruiters identify the most suitable candidates efficiently.
 
 ---
 
-#### Credits - Font Awesome 
+#### Credits - Font Awesome , Netlify
