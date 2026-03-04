@@ -1,4 +1,4 @@
-# 🤖 AI Resume Checker
+# AI Resume Checker
 
 An **AI powered Resume Screening System** that helps recruiters quickly evaluate and rank candidates based on their resumes.
 The system compares uploaded resumes with a **Job Description (JD)** using **AI based similarity scoring and skill matching**, 
