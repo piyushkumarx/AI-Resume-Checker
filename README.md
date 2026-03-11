@@ -1,33 +1,42 @@
-# Memory Game
 
-A fun and interactive Memory Card Game designed to test and improve your memory skills.
-Players flip cards to find matching pairs while trying to complete the game in the least number of moves.
+# AI-Resume-Checker
+
+An **AI powered Resume Screening System** that helps recruiters quickly evaluate and rank candidates based on their resumes.
+The system compares uploaded resumes with a **Job Description (JD)** using **AI based similarity scoring and skill matching**, 
+helping recruiters identify the most suitable candidates efficiently.
 
 ---
 
-##  Live link : 
+##  Live link : https://airesumecheckerbykhushi.netlify.app/
 
 ---
 
 ##  Tech Stack
 
  `React JS`
- `Semantic HTML5 markup`
- `CSS custom properties`
- 
+ `Python / Flask`
+ `Text similarity & skill matching`
+ `Render`
 
 ---
 
 ## Project Workflow :
 
-1. The game starts with all cards flipped down
-2. Click on a card to reveal its symbol or Number
-3. Select another card to find the matching pair
-4. If both cards match, they remain visible
-5. If they don’t match, they flip back after a short delay
-6. Continue until all pairs are matched
+1. Enter a **Job Description**
+2. Upload **multiple resumes**
+3. The system analyzes resumes using **AI/NLP techniques**
+4. Resumes are compared with the job description
+5. Each resume receives a **match score**
+6. Candidates are **ranked based on the score**
 
 ---
 
+##  Project Repositories
 
-#### Credits - Google , Vercel
+### Frontend : https://github.com/piyushkumarx/AI-Resume-Checker-Frontend
+
+### Backend : https://github.com/piyushkumarx/AI-Resume-Checker-Backend
+
+---
+
+#### Credits - Font Awesome , Netlify
