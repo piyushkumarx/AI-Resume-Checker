@@ -1,4 +1,4 @@
-# AI Resume Checker
+# Memory Game
 
 A fun and interactive Memory Card Game designed to test and improve your memory skills.
 Players flip cards to find matching pairs while trying to complete the game in the least number of moves.
